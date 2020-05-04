@@ -1,0 +1,17 @@
+/
+/2020/05/
+/2020/05/03/hola-mundo/
+/2020/05/03/hola-mundo/feed/
+/author/alejandrochin/
+/category/sin-categoria/
+/comments/feed/
+/feed/
+/pagina-ejemplo/
+/pagina-ejemplo/feed/
+/wp-admin/
+/wp-content/themes/twentytwenty/assets/js/index.js
+/wp-content/themes/twentytwenty/print.css
+/wp-content/themes/twentytwenty/style.css
+/wp-includes/css/dist/block-library/style.min.css
+/wp-json/
+/wp-json/oembed/1.0/embed

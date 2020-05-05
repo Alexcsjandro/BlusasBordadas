@@ -40,3 +40,14 @@
 /wp-content/themes/twentytwenty\screenshot.png
 /wp-content/themes/twentytwenty\style-rtl.css
 /wp-content/themes/twentytwenty\style.css
+/wp-content/uploads\wc-logs\index.html
+/wp-content/uploads\wc-logs\wc-image-regeneration-2020-05-04-8cf1eaedee14064f8ff89c84e78b60e0.log
+/wp-content/uploads\woocommerce-placeholder-100x100.png
+/wp-content/uploads\woocommerce-placeholder-1024x1024.png
+/wp-content/uploads\woocommerce-placeholder-150x150.png
+/wp-content/uploads\woocommerce-placeholder-300x300.png
+/wp-content/uploads\woocommerce-placeholder-324x324.png
+/wp-content/uploads\woocommerce-placeholder-416x416.png
+/wp-content/uploads\woocommerce-placeholder-768x768.png
+/wp-content/uploads\woocommerce-placeholder.png
+/wp-content/uploads\woocommerce_uploads\index.html
